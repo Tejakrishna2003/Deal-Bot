@@ -1,0 +1,23 @@
+{
+  "name": "deal-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "amazon-paapi": "^1.0.7",
+    "axios": "^1.8.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "facebook-node-sdk": "^0.2.0",
+    "instagram-private-api": "^1.46.1",
+    "node-schedule": "^2.1.1",
+    "node-telegram-bot-api": "^0.66.0",
+    "telegram-bot-api": "^2.0.1"
+  }
+}
